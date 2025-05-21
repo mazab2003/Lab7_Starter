@@ -8,5 +8,16 @@ Check Your Understanding:
 2) No. A simple unit test is enough to test a function's output. 
 
 
+3) Navigation mode analyzes the page immediately after it loads and measures performance. While Snapshot mode freezes the DOM in its current state to catch accessibility issues. 
+
+
+4) 
+1. Add a viewport meta tag <meta name="viewport"> with width or initial-scale.
+2. Resize and compress the product images
+3. Serve images in next-gen formats and preload the LCP image
+
+
+
+
 
 
